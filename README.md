@@ -1,3 +1,3 @@
 # test
 
-https://gamebrutality.github.io/test/
+https://gamebrutality.github.io/testGuestMEDJB/
